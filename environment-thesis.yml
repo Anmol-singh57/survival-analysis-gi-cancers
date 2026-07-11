@@ -1,0 +1,16 @@
+# Environment for Kaplan-Meier and Cox regression.
+# lifelines 0.27.8 requires scipy<1.12, hence a dedicated environment.
+name: thesis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy<1.12
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip:
+      - lifelines==0.27.8

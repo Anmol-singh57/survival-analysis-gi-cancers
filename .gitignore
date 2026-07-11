@@ -1,0 +1,48 @@
+# --- Raw data (TCGA/GDC clinical downloads) ---
+# Open-access but not redistributed here; see README for how to obtain from the GDC portal.
+*.tsv
+data/raw/
+raw/
+
+# Keep Clean/, Figures/ and Results/ tracked so the analysis stays reproducible.
+# (Do NOT add *.csv here, that would drop your results and cleaned data.)
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Misc ---
+*.log
+*.tmp
+
+
+thesis/
+thesis_rsf/
+envs/
+.conda/
+site-packages/
+*.tsv
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

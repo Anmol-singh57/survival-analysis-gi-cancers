@@ -1,0 +1,17 @@
+# Environment for the random survival forest, SHAP and cross-cancer transfer.
+name: thesis_rsf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - scikit-survival
+  - pip:
+      - shap
