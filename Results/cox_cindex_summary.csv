@@ -1,4 +1,0 @@
-cohort,Cox_C_index,n,penalizer
-COAD (Colon),0.762,426,0.1
-READ (Rectum),0.827,153,0.1
-STAD (Stomach),0.7,393,0.1

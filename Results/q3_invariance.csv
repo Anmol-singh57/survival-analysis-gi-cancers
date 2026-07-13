@@ -1,5 +1,0 @@
-covariate,HR_colorectal,HR_stomach,interaction_p,invariant
-Age (per year),1.04,1.024,0.4578,yes
-Male vs Female,0.882,1.01,0.8146,yes
-Stage (per level),2.225,1.659,0.1029,yes
-Residual disease present,1.599,1.738,0.4784,yes

@@ -1,2 +1,0 @@
-direction,n_train,deaths_train,n_test,deaths_test,C_index,stomach_internal_CV_C_index,integrated_brier_score,mean_time_dependent_AUC,risk_group_logrank_p
-"train colorectal (COAD+READ), test stomach (STAD)",579,114,393,157,0.646,0.65,0.192,0.671,1.54e-07

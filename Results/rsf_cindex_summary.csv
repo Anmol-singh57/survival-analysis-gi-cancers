@@ -1,4 +1,0 @@
-cohort,RSF_CV_mean,RSF_CV_std,Cox_CV_mean,Cox_CV_std,Cox_apparent_lifelines,n,events
-COAD (Colon),0.757,0.055,0.727,0.074,0.762,426,90
-READ (Rectum),0.662,0.147,0.716,0.136,0.827,153,24
-STAD (Stomach),0.65,0.061,0.686,0.06,0.7,393,157
