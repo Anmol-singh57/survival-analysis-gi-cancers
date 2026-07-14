@@ -1,0 +1,7 @@
+model,horizon_days,auc,cases,controls
+Colorectal forest -> stomach (transfer),365,0.658,83,256
+Colorectal forest -> stomach (transfer),730,0.674,136,108
+Colorectal forest -> stomach (transfer),1095,0.678,150,46
+Colorectal forest -> stomach (transfer),730,0.674,136,108
+Colorectal Cox -> stomach (transfer),730,0.661,136,108
+"Stomach forest, out-of-fold (ceiling)",730,0.658,136,108
