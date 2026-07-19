@@ -1,6 +1,0 @@
-target,model,c_index
-Stomach,Colorectal forest (transfer),0.646
-Stomach,Colorectal Cox (transfer),0.649
-Stomach,"Stomach forest, out-of-fold (ceiling)",0.648
-Colorectal,Stomach forest (transfer),0.763
-Colorectal,"Colorectal forest, out-of-fold (ceiling)",0.76
